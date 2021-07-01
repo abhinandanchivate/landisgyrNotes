@@ -1,1 +1,175 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T05:47:50.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.3" etag="TS9NzuJQqFtF8JBoadkz" type="github"><diagram id="eMWlEusDbhb0iqY11rxq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-01T06:52:21.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VRIBaznK4DCVEhVgh13T" version="14.8.3" type="github">
+  <diagram id="eMWlEusDbhb0iqY11rxq" name="Page-1">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OtryNPIOMspShNyYZk51-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="470" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-2" value="JDK" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-4" value="compilers&amp;nbsp;&lt;br&gt;Debuggers&lt;br&gt;javaDoc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-5" value="JRE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-6" value="JVM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-7" value="class lib." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-8" target="OtryNPIOMspShNyYZk51-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-8" target="OtryNPIOMspShNyYZk51-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-8" value="compiler will accept a java file and willtransform java file to .class file." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-9" target="OtryNPIOMspShNyYZk51-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-9" value="byte code." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-11" value="source code ===&amp;gt; HLL===&amp;gt; HRL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-13" target="OtryNPIOMspShNyYZk51-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-13" value="intermediate code" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-15" target="OtryNPIOMspShNyYZk51-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-15" value="JVM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-17" value="machine code." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-19" value="Java is platform independant but JVM is platform dependant." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="220" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-21" target="OtryNPIOMspShNyYZk51-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-21" target="OtryNPIOMspShNyYZk51-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-21" value="class loader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-22" target="OtryNPIOMspShNyYZk51-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-22" value="byte code verifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-24" target="OtryNPIOMspShNyYZk51-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-24" target="OtryNPIOMspShNyYZk51-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-24" value="interpreter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-26" target="OtryNPIOMspShNyYZk51-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-26" value="Run-Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-28" value="hardware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-30" target="OtryNPIOMspShNyYZk51-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-30" value="1. bootstrap classloader&lt;br&gt;2. system classloader&lt;br&gt;3. extension class loader" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="900" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-32" value="Diff bet n 3 loader." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="915" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-34" value="once the classes are loaded , and the code is verified , the interpreter will read the code line by line." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-36" value="JVM internals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-37" target="OtryNPIOMspShNyYZk51-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-37" value="class Loader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-38" target="OtryNPIOMspShNyYZk51-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1900" width="540" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-40" value="JVM Memory" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1910" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-41" value="Method Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-42" value="Heap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-43" value="JVM language Stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-44" target="OtryNPIOMspShNyYZk51-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-44" value="PC Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-45" value="Native Method stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1950" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-46" value="will hold thecurrently executing instrcution.(if we are dealing with multi thread env. then each thread will have its own pc register." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="2130" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-49" target="OtryNPIOMspShNyYZk51-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-49" value="execution Engine" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-51" target="OtryNPIOMspShNyYZk51-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-51" value="Native Method Interface" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OtryNPIOMspShNyYZk51-53" target="OtryNPIOMspShNyYZk51-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-53" value="Native Method Libraries" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OtryNPIOMspShNyYZk51-55" value="required for execution purpose." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
