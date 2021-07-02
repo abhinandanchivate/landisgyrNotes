@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T09:24:05.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="oH6yr3qzwC5tPfb7rdLX" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-02T09:43:02.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="Qr6wWNHvkW1aVO0Addfv" version="14.8.0" type="github" pages="5">
   <diagram id="eMWlEusDbhb0iqY11rxq" name="Page-1">
     <mxGraphModel dx="1632" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -374,11 +374,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mruu_R6I79HtOYyYpztP" name="inheritance">
-    <mxGraphModel dx="782" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gs7dyNIQLhYbh71NdbI9-0" />
         <mxCell id="gs7dyNIQLhYbh71NdbI9-1" parent="gs7dyNIQLhYbh71NdbI9-0" />
-        <mxCell id="MAvqHgI45OyShRivkDKJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="gs7dyNIQLhYbh71NdbI9-2" target="MAvqHgI45OyShRivkDKJ-3">
+        <mxCell id="MAvqHgI45OyShRivkDKJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="gs7dyNIQLhYbh71NdbI9-2" target="MAvqHgI45OyShRivkDKJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="gs7dyNIQLhYbh71NdbI9-2" target="MAvqHgI45OyShRivkDKJ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gs7dyNIQLhYbh71NdbI9-2" value="Manager Object fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
@@ -419,6 +422,42 @@
         </mxCell>
         <mxCell id="MAvqHgI45OyShRivkDKJ-11" value="use super method.&lt;br&gt;it is used to give a call to parent constructor." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
           <mxGeometry x="1080" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="860" y="910" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-14" value="Manager" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-16" value="Employee" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="-155" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-19" value="all content from employee class as per the visibility &amp;amp; only overridden methods from the derived class" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="-35" y="200" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-20" target="MAvqHgI45OyShRivkDKJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-20" target="MAvqHgI45OyShRivkDKJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-20" value="calculateSalary()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-21" value="Manager" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="180" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-23" value="employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="-20" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-25" target="MAvqHgI45OyShRivkDKJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-25" value="calculateSalary()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="370" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-26" value="Employee class." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="570" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
