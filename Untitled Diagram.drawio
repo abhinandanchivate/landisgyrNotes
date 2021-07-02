@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T06:42:36.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="4UQqJIyoYBdjkymxGXDC" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-02T09:24:05.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="oH6yr3qzwC5tPfb7rdLX" version="14.8.0" type="github" pages="5">
   <diagram id="eMWlEusDbhb0iqY11rxq" name="Page-1">
     <mxGraphModel dx="1632" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -395,6 +395,30 @@
         </mxCell>
         <mxCell id="MAvqHgI45OyShRivkDKJ-3" value="base class constructor ===&amp;gt; child class constructor." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
           <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-5" target="MAvqHgI45OyShRivkDKJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-5" value="parent/super/base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-6" value="child/sub/derived" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="390" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-8" target="MAvqHgI45OyShRivkDKJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="MAvqHgI45OyShRivkDKJ-8" target="MAvqHgI45OyShRivkDKJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-8" value="if base class is having only parameterized constructor &amp;amp; child is having only explicit DC then either introduce explicit DC in parent or use PC to initialize the base class fields." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="650" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-9" value="introduce explicit DC in base class." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-11" value="use super method.&lt;br&gt;it is used to give a call to parent constructor." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="1080" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
