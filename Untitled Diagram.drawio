@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T05:20:42.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="mxxA_ZXdaM9g0xVojdoh" version="14.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-02T06:42:36.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="4UQqJIyoYBdjkymxGXDC" version="14.8.0" type="github" pages="5">
   <diagram id="eMWlEusDbhb0iqY11rxq" name="Page-1">
     <mxGraphModel dx="1632" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -334,6 +334,67 @@
         </mxCell>
         <mxCell id="4YwialDWSzsK2goE0Hgc-14" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4YwialDWSzsK2goE0Hgc-1">
           <mxGeometry x="690" y="240" width="70" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1w0Mwy5L-pv_NYM1hcEW" name="Page-4">
+    <mxGraphModel dx="782" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-0" />
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-1" parent="kWckQiDa2B8wgVJWN9DG-0" />
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kWckQiDa2B8wgVJWN9DG-1" source="kWckQiDa2B8wgVJWN9DG-2" target="kWckQiDa2B8wgVJWN9DG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kWckQiDa2B8wgVJWN9DG-1" source="kWckQiDa2B8wgVJWN9DG-2" target="kWckQiDa2B8wgVJWN9DG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-2" value="types of DC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kWckQiDa2B8wgVJWN9DG-1">
+          <mxGeometry x="220" y="50" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kWckQiDa2B8wgVJWN9DG-1" source="kWckQiDa2B8wgVJWN9DG-3" target="kWckQiDa2B8wgVJWN9DG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-3" value="implicit DC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="kWckQiDa2B8wgVJWN9DG-1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kWckQiDa2B8wgVJWN9DG-1" source="kWckQiDa2B8wgVJWN9DG-5" target="kWckQiDa2B8wgVJWN9DG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-5" value="explicit DC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="kWckQiDa2B8wgVJWN9DG-1">
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-7" value="it is provided by java/JVM when if there is no constructor declations." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kWckQiDa2B8wgVJWN9DG-1">
+          <mxGeometry y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWckQiDa2B8wgVJWN9DG-9" value="it will be created by us to initialize the object with some custom default values." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kWckQiDa2B8wgVJWN9DG-1">
+          <mxGeometry x="535" y="360" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mruu_R6I79HtOYyYpztP" name="inheritance">
+    <mxGraphModel dx="782" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gs7dyNIQLhYbh71NdbI9-0" />
+        <mxCell id="gs7dyNIQLhYbh71NdbI9-1" parent="gs7dyNIQLhYbh71NdbI9-0" />
+        <mxCell id="MAvqHgI45OyShRivkDKJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gs7dyNIQLhYbh71NdbI9-1" source="gs7dyNIQLhYbh71NdbI9-2" target="MAvqHgI45OyShRivkDKJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gs7dyNIQLhYbh71NdbI9-2" value="Manager Object fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="120" y="40" width="270" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-0" value="static fields will get separate memory allocation." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="425" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-1" value="Its own fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-2" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAvqHgI45OyShRivkDKJ-3" value="base class constructor ===&amp;gt; child class constructor." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gs7dyNIQLhYbh71NdbI9-1">
+          <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
