@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T11:33:20.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="8Te-gVvV6yQkXukKjAOm" version="14.9.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-26T11:38:20.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="nNuoD1fTP-nK2sUsWT08" version="14.9.2" type="github" pages="11">
   <diagram id="eMWlEusDbhb0iqY11rxq" name="Page-1">
     <mxGraphModel dx="3122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1015,32 +1015,47 @@
       <root>
         <mxCell id="cU-ixVGuI9QmRoO-_hgP-0" />
         <mxCell id="cU-ixVGuI9QmRoO-_hgP-1" parent="cU-ixVGuI9QmRoO-_hgP-0" />
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-2" value="Session" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-2" value="Session" style="rounded=1;whiteSpace=wrap;html=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" vertex="1">
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-3" target="cU-ixVGuI9QmRoO-_hgP-2">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-3" target="cU-ixVGuI9QmRoO-_hgP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-3" target="cU-ixVGuI9QmRoO-_hgP-9">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-3" target="cU-ixVGuI9QmRoO-_hgP-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-3" value="SessionFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-3" value="SessionFactory" style="rounded=1;whiteSpace=wrap;html=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" vertex="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-5" target="cU-ixVGuI9QmRoO-_hgP-6">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-5" target="cU-ixVGuI9QmRoO-_hgP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-5" target="cU-ixVGuI9QmRoO-_hgP-3">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cU-ixVGuI9QmRoO-_hgP-1" source="cU-ixVGuI9QmRoO-_hgP-5" target="cU-ixVGuI9QmRoO-_hgP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-5" value="Configuration object" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-5" value="Configuration object" style="rounded=1;whiteSpace=wrap;html=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" vertex="1">
           <mxGeometry x="280" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-6" value="it requires hibernate.properties , entity class detials/dto package name" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-6" value="it requires hibernate.properties , entity class detials/dto package name" style="whiteSpace=wrap;html=1;rounded=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" vertex="1">
           <mxGeometry x="480" y="-50" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cU-ixVGuI9QmRoO-_hgP-9" value="it is used to provide the session objects &amp;amp; it will hold all ur application details for DB." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+        <mxCell id="cU-ixVGuI9QmRoO-_hgP-9" value="it is used to provide the session objects &amp;amp; it will hold all ur application details for DB." style="whiteSpace=wrap;html=1;rounded=1;" parent="cU-ixVGuI9QmRoO-_hgP-1" vertex="1">
           <mxGeometry x="480" y="240" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spIq_RFezGPuZcT1XVGe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cU-ixVGuI9QmRoO-_hgP-1" source="spIq_RFezGPuZcT1XVGe-0" target="spIq_RFezGPuZcT1XVGe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spIq_RFezGPuZcT1XVGe-0" value="Department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spIq_RFezGPuZcT1XVGe-1" value="Employee" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+          <mxGeometry x="240" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spIq_RFezGPuZcT1XVGe-3" value="use primary key of dept into empl as a FK." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+          <mxGeometry x="440" y="700" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="spIq_RFezGPuZcT1XVGe-4" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cU-ixVGuI9QmRoO-_hgP-1">
+          <mxGeometry x="310" y="760" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
